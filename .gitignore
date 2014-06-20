@@ -1,0 +1,4 @@
+.bundle
+.sass-cache
+*.idea
+node_modules
